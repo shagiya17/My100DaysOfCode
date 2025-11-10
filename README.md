@@ -1,5 +1,4 @@
 # My100DaysOfCode
-Developing my python skills and knowledge 
+Developing my python skills and knowledge by completing the 100 days of code
 
-# Day 1
-Creating a random name band generator
+
